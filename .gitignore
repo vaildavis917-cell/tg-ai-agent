@@ -1,0 +1,10 @@
+config_real.py
+prompts.py
+__pycache__/
+*.pyc
+.env
+session.*
+data/
+logs/
+backups/
+ambient/

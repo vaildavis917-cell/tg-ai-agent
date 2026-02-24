@@ -1,0 +1,5 @@
+anthropic>=0.40.0
+elevenlabs>=1.0.0
+telethon>=1.35.0
+aiohttp>=3.9.0
+python-dotenv>=1.0.0
