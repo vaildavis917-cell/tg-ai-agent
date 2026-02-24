@@ -1,0 +1,9 @@
+config_real.py
+__pycache__/
+*.pyc
+.env
+session.*
+data/
+logs/
+backups/
+ambient/
